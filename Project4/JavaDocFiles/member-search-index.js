@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"MakeSortedListFromUserInput","l":"getIntFromUser()"},{"p":"<Unnamed>","c":"MakeSortedListFromUserInput","l":"getList()"},{"p":"<Unnamed>","c":"MakeSortedListFromUserInput","l":"sortList()"}];updateSearchResults();
